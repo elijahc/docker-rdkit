@@ -1,0 +1,4 @@
+docker-rdkit
+============
+
+RDKit Dockerfiles
